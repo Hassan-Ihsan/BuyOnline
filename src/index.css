@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+html{
+  font-size: 62.5%;
+  /* overflow: hidden; */
+  scroll-behavior: smooth;
+}
+a {
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+h1{
+  font-size: 5rem;
+  /* font-weight: 900; */
+}
+@media only screen and (min-width:150px) and (max-width:350px){
+  html{
+    font-size: 35%;
+  }
+    h1{
+      font-size: 5rem;
+    }
+
+}
+@media only screen and (min-width:351px) and (max-width:567px){
+  html{
+    font-size: 45%;
+}
+ 
+  }
+

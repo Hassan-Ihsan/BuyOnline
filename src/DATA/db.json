@@ -1,0 +1,147 @@
+{
+  "trendingProduct": [
+    {
+      "img": "image/mob2.jpeg",
+      "category": "Mobile",
+      "type": "trendingProduct",
+      "name": "Samsung a7",
+      "rating": 4,
+      "price": 500,
+      "qty": 1,
+      "id": "1"
+    },
+    {
+      "img": "image/lap3.jpg",
+      "category": "Laptop",
+      "type": "trendingProduct",
+      "name": "Hp Envy x",
+      "rating": 5,
+      "price": 1500,
+      "qty": 1,
+      "id": "2"
+    },
+    {
+      "img": "image/head4.jpeg",
+      "category": "HeadPhone",
+      "type": "trendingProduct",
+      "name": "Head nova",
+      "rating": 4,
+      "price": 100,
+      "qty": 1,
+      "id": "3"
+    },
+    {
+      "img": "image/tab1.jpg",
+      "category": "Tablet",
+      "type": "trendingProduct",
+      "name": "Tab x",
+      "rating": 5,
+      "price": 1000,
+      "qty": 1,
+      "id": "4"
+    },
+    {
+      "img": "image/lap2.webp",
+      "category": "Laptop",
+      "type": "trendingProduct",
+      "name": "Dell A2",
+      "rating": 4,
+      "price": 1500,
+      "qty": 1,
+      "id": "5"
+    },
+    {
+      "img": "image/head1.jpeg",
+      "category": "HeadPhone",
+      "type": "trendingProduct",
+      "name": "Head navi",
+      "rating": 3,
+      "price": 100,
+      "qty": 1,
+      "id": "6"
+    },
+    {
+      "img": "image/mob1.jpeg",
+      "category": "Mobile",
+      "type": "trendingProduct",
+      "name": "Redmi",
+      "rating": 4,
+      "price": 500,
+      "qty": 1,
+      "id": "7"
+    },
+    {
+      "img": "image/lap1.jpg",
+      "category": "Laptop",
+      "type": "trendingProduct",
+      "name": "Apple N6",
+      "rating": 4,
+      "price": 1500,
+      "qty": 1,
+      "id": "8"
+    }
+  ],
+  "newArrivalProduct": [
+    {
+      "img": "image/lap4.webp",
+      "category": "Laptop",
+      "type": "newArrivalProduct",
+      "name": "Hp White ",
+      "rating": 4,
+      "price": 1500,
+      "qty": 1,
+      "id": "1"
+    },
+    {
+      "img": "image/head2.jpeg",
+      "category": "HeadPhone",
+      "type": "newArrivalProduct",
+      "name": "Head x",
+      "rating": 3,
+      "price": 100,
+      "qty": 1,
+      "id": "2"
+    },
+    {
+      "img": "image/mob3.jpeg",
+      "category": "Mobile",
+      "type": "newArrivalProduct",
+      "name": "Iphone 11",
+      "rating": 5,
+      "price": 500,
+      "qty": 1,
+      "id": "3"
+    },
+    {
+      "img": "image/head3.jpeg",
+      "category": "HeadPhone",
+      "type": "newArrivalProduct",
+      "name": "Head SA1",
+      "rating": 4,
+      "price": 100,
+      "qty": 1,
+      "id": "4"
+    },
+    {
+      "img": "image/lap5.jpeg",
+      "category": "Laptop",
+      "type": "newArrivalProduct",
+      "name": "Lenevo A5",
+      "rating": 5,
+      "price": 1500,
+      "qty": 1,
+      "id": "5"
+    },
+    {
+      "img": "image/mob4.jpeg",
+      "category": "Mobile",
+      "type": "newArrivalProduct",
+      "name": "lnfinx",
+      "rating": 4,
+      "price": 1000,
+      "qty": 1,
+      "id": "6"
+    }
+  ],
+  "cartProduct": []
+}

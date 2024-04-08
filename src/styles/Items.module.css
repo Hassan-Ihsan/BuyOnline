@@ -1,0 +1,102 @@
+
+.card{
+    background-color: white; 
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    /* text-align: ; */
+    align-items:center;
+    /* flex-basis: 25%; */
+    max-width: 80%;
+    /* box-shadow: 0px 0px 20px #012290f7,0px 0px 20px #0053b8f7 ; */
+    /* border-radius: 5px; */
+    border: 0.5px solid gray ;
+    /* margin:5rem 0; */
+    margin-top:2rem;
+    margin-bottom:6rem;
+
+    /* border: 2px solid aqua; */
+  }
+  .innerCard img{
+    max-width: 100%;
+    /* border-radius: 5px ; */
+    /* width: 200px; */
+    /* color: red; */
+    /* background-color: red; */
+    height: auto;
+    /* border-bottom: 1px solid gray; */
+  }
+  /* .innerCard {
+    border: 2px solid aqua;
+  } */
+  .innerCard hr{
+    /* background-color: aqua; */
+    /* border: 2px solid aqua; */
+    width: 100%;
+    margin-top:10px ;
+    /* height: 70px; */
+  }
+  .visite{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    border-top:1px solid gray;
+    /* border-bottom:1px solid gray; */
+    margin-top:10px;
+   
+  }
+  .visite h3{
+   /* text-align: left; */
+   /* width:max-content; */
+   font-size: 1.5rem;
+    /* border:2px solid gray; */
+   
+   
+  }
+  .btn{
+    padding: 0.5rem ;
+    background-color: rgb(219, 53, 53); 
+    
+    /* background-color: #fd4b6b; */
+    border: none;
+    margin: 1rem 0;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+    /* border-radius: 5px; */
+}
+.btn i{
+  padding-right:  0.3rem;
+ 
+}
+.btn:hover{
+  transform: scale(0.8);
+  background-color: blue;
+
+}
+ 
+  @media only screen and (max-width:998px){
+    .card{
+      /* flex-basis: 70%; */
+      max-width: 70%; 
+          
+    }
+}
+@media only screen and (min-width:351px)and (max-width:450px){
+  .btn{
+    font-size: 0.8rem;
+  }
+}
+@media only screen and (max-width:350px){
+  .btn{
+    font-size: 0.7rem;
+  }
+}
+@media only screen and (min-width:768px) and (max-width:900px){
+  .btn{
+    font-size: 1rem;
+  }
+}
