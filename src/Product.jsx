@@ -106,7 +106,7 @@ const searchFilter=(searchName)=>{
          </div>
         )
          : error1 ? (
-          <h2 style={{width:"100vw",textAlign:"center",color :"red",padding:"0 3rem"}}>{error1} <br/><span style={{color:"gray"}}>Note:Sorry! this is dynamically data fetching useing rtk async-thunk and rtk query so please <br/>clone this pro from github in your local system and run this command for runnig json server and seeing the products and carts <br/>"npm install vite --save-dev" and npm run dev" and "npx json-server --watch ./src/DATA/db.json "</span></h2>
+          <h2 style={{width:"100vw",textAlign:"center",color :"red",padding:"0 3rem"}}>{error1} <br/><span style={{color:"gray"}}>Note:Sorry! this is dynamically data fetching useing rtk async-thunk and rtk query so please <br/>clone this pro from github in your local system and run these command for runnig json server and seeing the products and carts <br/>"npm install vite --save-dev" and npm run dev" and "npx json-server --watch ./src/DATA/db.json "</span></h2>
           
         )
         : trendingData.length === 0 ? (
